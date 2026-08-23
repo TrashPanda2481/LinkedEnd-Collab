@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none" aria-label="LinkedEnd logo">
+  <rect x="1" y="1" width="38" height="38" rx="9" fill="#0d1410" stroke="#527f5a" stroke-width="1.5"/>
+  <path d="M11 28V12h4.2v12.6H24V28H11z" fill="#dce8dd"/>
+  <circle cx="27.5" cy="14.5" r="4.2" fill="#ff7a28"/>
+  <path d="M25.6 14.6l1.4 1.4 2.6-3" stroke="#1a0e02" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

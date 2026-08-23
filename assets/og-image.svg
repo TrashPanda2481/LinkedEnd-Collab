@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="-5%" r="65%">
+      <stop offset="0%" stop-color="#ff7a28" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ff7a28" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1410"/>
+      <stop offset="45%" stop-color="#090e0a"/>
+      <stop offset="100%" stop-color="#050806"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g transform="translate(80,80)">
+    <rect x="0" y="0" width="64" height="64" rx="14" fill="#0d1410" stroke="#527f5a" stroke-width="2.4"/>
+    <path d="M17.6 44.8V19.2h6.7v20.2H38.4v5.4H17.6z" fill="#dce8dd"/>
+    <circle cx="44" cy="23.2" r="6.7" fill="#ff7a28"/>
+    <path d="M41 23.4l2.2 2.2 4.2-4.8" stroke="#1a0e02" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <text x="80" y="260" font-family="JetBrains Mono, monospace" font-weight="700" font-size="72" fill="#dce8dd">LinkedEnd</text>
+  <text x="80" y="330" font-family="JetBrains Mono, monospace" font-weight="600" font-size="40" fill="#ffb347">No one is coming to save us.</text>
+  <text x="80" y="382" font-family="JetBrains Mono, monospace" font-weight="600" font-size="40" fill="#ffb347">We are.</text>
+  <text x="80" y="450" font-family="Arial, sans-serif" font-size="26" fill="#9db3a0">a network for the collapse — anonymous by design</text>
+  <g font-family="JetBrains Mono, monospace" font-size="18" fill="#a8d8ae">
+    <rect x="78" y="500" width="168" height="38" rx="19" fill="none" stroke="#456f4d" stroke-dasharray="5 4"/>
+    <text x="98" y="524">has a well</text>
+    <rect x="258" y="500" width="260" height="38" rx="19" fill="none" stroke="#456f4d" stroke-dasharray="5 4"/>
+    <text x="278" y="524">makes excellent soup</text>
+    <rect x="530" y="500" width="230" height="38" rx="19" fill="none" stroke="#456f4d" stroke-dasharray="5 4"/>
+    <text x="550" y="524">can sharpen anything</text>
+  </g>
+</svg>
