@@ -579,7 +579,7 @@
   font-size: var(--text-xs);
   color: var(--color-primary-hover);
   background: color-mix(in oklab, var(--color-primary) 16%, transparent);
-  border: 1px solid color-mix(in oklab, var(--color-primary) 40%, transparent);
+  border: 1px solid color-mix(in oklab, var(--color-primary) 70%, transparent);
   padding: 2px var(--space-2);
   border-radius: var(--radius-sm);
   white-space: nowrap;
