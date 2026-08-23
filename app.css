@@ -909,6 +909,8 @@
   .shell__content { padding: var(--space-4); }
   .feature-row { grid-template-columns: 1fr; }
   .comms-layout { grid-template-columns: 1fr; min-width: 0; }
+  .comms-layout > * { min-width: 0; }
+  .msg-bubble { max-width: 88%; }
   .comms-list { flex-direction: row; overflow-x: auto; min-width: 0; max-width: 100%; -webkit-overflow-scrolling: touch; }
   .comms-list-item { min-width: 220px; flex-shrink: 0; }
   .landing-nav__links { gap: var(--space-3); }

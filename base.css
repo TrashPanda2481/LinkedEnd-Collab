@@ -19,6 +19,10 @@ html {
   scroll-padding-top: var(--space-16);
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   min-height: 100dvh;
   line-height: 1.6;
@@ -26,6 +30,7 @@ body {
   font-size: var(--text-base);
   color: var(--color-text);
   background-color: var(--color-bg);
+  overflow-x: hidden;
 }
 
 img,
